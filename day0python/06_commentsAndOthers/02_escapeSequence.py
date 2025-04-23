@@ -1,0 +1,1 @@
+print("this is a government \n engineering  college it is  \\ situated at amrath in jamui")
