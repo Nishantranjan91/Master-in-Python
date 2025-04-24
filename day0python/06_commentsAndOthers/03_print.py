@@ -1,0 +1,7 @@
+# print('i am \" nishant ranjan')
+# print('i am ',"nishant ranjan")
+# print('nishant ranjan')
+# print('famous')
+# print('nishant ranjan',"santosh kumar",5,sep="/")
+print('nishant',end=",")
+print('nishant',end="//")
