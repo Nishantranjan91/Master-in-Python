@@ -12,3 +12,6 @@ print(a<b)
 print(a>b)
 print(a<=b)
 print(a>=b)
+print(a==6)
+print(a!=b)
+#logical operators
