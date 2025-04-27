@@ -6,4 +6,5 @@ name="nishant"
 # print(name[-1])
 # print(name[-2])
 name="nishantranjansantoshkumar"
-print(name[0:20:4])
+print(name[:4])
+print(name[2:])
