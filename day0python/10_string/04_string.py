@@ -1,4 +1,4 @@
 s="hello world"
 a=len(s)
 print(a)
-print(s.upper())
+print(s.upper(), s)
