@@ -1,3 +1,3 @@
-tu=(3, 2, 45)
-a,b,c=tu
-print(a, b, c)
+t=(3, 2, 45, 34, 84,35)
+
+print(t.count(45))
