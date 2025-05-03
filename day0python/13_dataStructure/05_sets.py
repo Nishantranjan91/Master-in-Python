@@ -5,3 +5,4 @@ s={3, 8, 7, 5, 4}
 print(s)
 s.remove(3)
 print(s)
+s.discard(444)
