@@ -1,3 +1,3 @@
-a=(27,99,26,87,47)
-print(a)
-print(a[0])
+tu=(3, 2, 45)
+a,b,c=tu
+print(a, b, c)
