@@ -7,6 +7,9 @@ class  Employee:
     def get_salary(self):
         return self.salary
     
+    def get_salary(self):
+        print(f"the name of the employee is {self.name}.Salary is {self.salary}.the bond is for {self.bond} years")
+    
 
 e1 = Employee(34000, "john Doe", 4)
 
