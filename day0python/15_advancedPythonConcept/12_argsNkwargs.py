@@ -1,5 +1,6 @@
-def sum(*args):
-    print(args)
+def marks(**kwargs):
 
+    for item in kwargs.keys():
+        print(f"The marks of{item} is {Kwargs[item]}")
 
-print(sum(342, 2, 7)) 
+marks(subham=34, vikrant=54, jack=34, marie=90)         
