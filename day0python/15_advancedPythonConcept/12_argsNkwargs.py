@@ -1,6 +1,5 @@
-def marks(**kwargs):
+def func1(*args,**kwargs):
+    print(args)
+    print(kwargs)
 
-    for item in kwargs.keys():
-        print(f"The marks of{item} is {Kwargs[item]}")
-
-marks(subham=34, vikrant=54, jack=34, marie=90)         
+func1(1, 2, 4, 5, jack=34, jill=34, marrie=31)
