@@ -23,4 +23,4 @@ wt=70
  print("my name is { ds} and my wt is{70}kg".format(name,70))
  def fun(name):
      print("my name is"+name)
-     print(f'my name is {name}')
+     print(f'my name is {name}'
