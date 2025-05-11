@@ -16,4 +16,4 @@ match 0:
     case "/":
         print(f"The result is : {a/b}")    
     case default:       
-        print(f"there was an error")
+        print(f"something went wrong")
