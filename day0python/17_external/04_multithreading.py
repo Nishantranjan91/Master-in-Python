@@ -13,4 +13,4 @@ for i in range(3):
     thread.start()
 for thread in threads:
     thread.join()
-print("All threads completed.")        
+print("All threads finished.")        
